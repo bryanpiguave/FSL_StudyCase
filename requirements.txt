@@ -1,0 +1,47 @@
+# Core ML and Deep Learning
+torch>=2.4.1
+torchvision>=0.19.0
+torchaudio>=2.4.0
+dgl>=2.4.0
+
+# Scientific Computing
+numpy>=2.3.0
+pandas>=2.3.0
+scipy>=1.16.0
+scikit-learn>=1.0.0
+
+# Chemistry and Molecular Processing
+rdkit>=2025.03.5
+mordredcommunity[full]
+
+# NLP and Transformers
+transformers>=4.20.0
+tokenizers>=0.12.0
+
+# Visualization and Plotting
+matplotlib>=3.10.0
+seaborn>=0.11.0
+plotly>=5.0.0
+
+# Optimization and ML Tools
+scikit-optimize>=0.9.0
+
+# Experiment Tracking and Logging
+wandb>=0.12.0
+tensorboard>=2.7.0
+
+# Utilities and I/O
+pyyaml>=6.0
+tqdm>=4.67.0
+requests>=2.32.0
+click>=8.0.0
+joblib>=1.1.0
+
+# Development and Testing
+pytest>=6.2.0
+black>=21.0.0
+flake8>=3.9.0
+
+# Jupyter and Interactive Development
+jupyter>=1.0.0
+ipykernel>=6.0.0
