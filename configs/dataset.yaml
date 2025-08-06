@@ -1,0 +1,17 @@
+Tox21:
+  train_tasks:
+    - "NR-AR"
+    - "NR-AR-LBD"
+    - "NR-AhR"
+    - "NR-Aromatase"
+    - "NR-ER"
+    - "NR-ER-LBD"
+    - "NR-PPAR-gamma"
+    - "SR-ARE"
+    - "SR-ATAD5"
+  test_tasks:
+    - "SR-HSE"
+    - "SR-MMP"
+    - "SR-p53"
+  split_test_tasks_path: data/Tox21/splits_test_tasks.json
+  
